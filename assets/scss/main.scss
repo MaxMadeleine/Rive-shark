@@ -8,29 +8,9 @@ html {
   padding: 0;
   margin: 0;
 }
-/* VARIABLES IN HTML: */
-:root {
+
+.riveCanvas{
+  width: 500px;
+  height: 500px;
+  background-color: red;
 }
-body {
-  font-family: "Smooch Sans", sans-serif; /*"SMOOCH SANS" IS A GOOGLE FONT*/
-  font-weight: 400;
-  max-width: 1305px;
-  margin: auto;
-}
-/* #endregion MAIN SHIT  */
-/* #region GLOBAL HEADER */
-/* #endregion */
-/* #region GLOBAL NAV */
-/* #endregion */
-/* #region POP UP FORM BOOK */
-/* #endregion */
-/* #region POP UP FORM CART */
-/* #endregion */
-/* #region STAFF  */
-/* #endregion */
-/* #region SECTION GALLERY */
-/* #endregion */
-/* #region GLOBAL FOOTER */
-/* #endregion */
-/* #region MEDIA QUERIES  */
-/* #endregion */
